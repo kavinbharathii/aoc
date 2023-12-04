@@ -1,0 +1,1 @@
+This is a disclaimer that any bugs caused by this code is not my responsibility. My responsiblity is to write buggy code.
